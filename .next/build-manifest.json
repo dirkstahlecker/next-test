@@ -1,0 +1,52 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/I2SJIv2rXGozPhz0reGXc/_buildManifest.js",
+    "static/I2SJIv2rXGozPhz0reGXc/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/f98130adafb6c0f94fb55e8556806bd461cc0461.82b7337d85f15f4914bd.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/f98130adafb6c0f94fb55e8556806bd461cc0461.82b7337d85f15f4914bd.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-a0ee7e819ac33727cdcf.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/f98130adafb6c0f94fb55e8556806bd461cc0461.82b7337d85f15f4914bd.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/p/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/f98130adafb6c0f94fb55e8556806bd461cc0461.82b7337d85f15f4914bd.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ],
+    "/post": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.0f140d5eb2070c7e423d.js",
+      "static/chunks/f98130adafb6c0f94fb55e8556806bd461cc0461.82b7337d85f15f4914bd.js",
+      "static/runtime/main-c0991c42c6a9a1b31829.js"
+    ]
+  }
+}
